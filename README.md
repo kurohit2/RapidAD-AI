@@ -67,4 +67,6 @@ The application features a premium dark-mode interface inspired by modern SaaS p
 - **Responsive Layout**: Sidebar-driven navigation with persistent feedback loops.
 
 ---
+## Demo video 
+link :- https://www.linkedin.com/posts/rohitttkuma_ai-generativeai-python-activity-7412861654620811264-QwKr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADd-bSABojitKt1PywSZxwua_ZVuho9LKzw
 Built with ❤️ for professional ad creators.
